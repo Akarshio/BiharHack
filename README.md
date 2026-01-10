@@ -8,9 +8,9 @@ Empowering tech students and mentors in Bihar with a centralized platform for th
 [![Open Source Love](badges.frapsoft.com)](github.com)
 
 ## 📋 Table of Contents
-- [About](Real Time Update For Events.)
+- [About](#-Real-Time-Update-For-Events.)
 - [Key Features](#-key-features)
-- [Community](#Open Source community)
+- [Community](#-Open-Source-community)
 
 ## 📖 About
 BiharHack is an open-source platform bridging the gap between tech students and the industry in Bihar. We provide a single destination to discover the latest hackathons, workshops, and mentorship opportunities.
