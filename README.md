@@ -31,7 +31,7 @@ Visit the live website: **[https://akarshio.github.io/BiharHack/](https://akarsh
 ## 📸 Screenshots
 
 ### Home Page
-![BiharHack Home](https://via.placeholder.com/800x400?text=BiharHack+Home+Page)
+![BiharHack Home](https://akarshio.github.io/BiharHack/index.html)
 
 ### Events Page
 ![Events Listing](https://via.placeholder.com/800x400?text=Events+Listing)
