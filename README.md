@@ -31,10 +31,10 @@ Visit the live website: **[https://akarshio.github.io/BiharHack/](https://akarsh
 ## 📸 Screenshots
 
 ### Home Page
-![BiharHack Home](https://akarshio.github.io/BiharHack/index.html)
+![BiharHack Home]
 
 ### Events Page
-![Events Listing](https://via.placeholder.com/800x400?text=Events+Listing)
+![Events Listing]
 
 ---
 
