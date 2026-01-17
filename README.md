@@ -31,10 +31,10 @@ Visit the live website: **[https://akarshio.github.io/BiharHack/](https://akarsh
 ## 📸 Screenshots
 
 ### Home Page
-![BiharHack Home]
+
 
 ### Events Page
-![Events Listing]
+
 
 ---
 
@@ -150,13 +150,11 @@ We welcome contributions from the community! Here's how you can help:
 - [x] Launch basic website
 - [x] Add event listing page
 - [x] Create registration form
-- [ ] Add backend (Spring Boot/Node.js)
+- [ ] Add backend (Node.js, MongoDB)
 - [ ] Implement user authentication
 - [ ] Add event management system
 - [ ] Create admin dashboard
-- [ ] Integrate payment gateway
 - [ ] Add email notifications
-- [ ] Mobile app development
 
 ---
 
