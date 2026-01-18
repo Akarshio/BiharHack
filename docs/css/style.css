@@ -852,9 +852,9 @@ body.dark strong {
     margin: 0;
 }
 
-/* ========================================
+/* 
    FEATURE BOXES - DARK MODE
-   ======================================== */
+   */
 
 body.dark .opensource-badge {
    background: linear-gradient(135deg, #343a40, #343a40) !important;
