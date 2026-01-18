@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions? Reach out to us:
 
-- **Email:** [thisisakarshgupta@gmail.com]
+- **Email:** [ID](thisisakarshgupta@gmail.com)
 - **GitHub Issues:** [BiharHack Issues](https://github.com/akarshio/BiharHack/issues)
 - **Website:** [https://akarshio.github.io/BiharHack/](https://akarshio.github.io/BiharHack/)
 
